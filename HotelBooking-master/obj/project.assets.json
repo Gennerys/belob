@@ -12620,11 +12620,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\oleksandr.papirnyk\\Desktop\\HotelBooking-master\\HotelBooking.csproj",
+      "projectUniqueName": "D:\\GITHUB\\belob\\HotelBooking-master\\HotelBooking.csproj",
       "projectName": "HotelBooking",
-      "projectPath": "C:\\Users\\oleksandr.papirnyk\\Desktop\\HotelBooking-master\\HotelBooking.csproj",
+      "projectPath": "D:\\GITHUB\\belob\\HotelBooking-master\\HotelBooking.csproj",
       "packagesPath": "C:\\Users\\oleksandr.papirnyk\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\oleksandr.papirnyk\\Desktop\\HotelBooking-master\\obj\\",
+      "outputPath": "D:\\GITHUB\\belob\\HotelBooking-master\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
